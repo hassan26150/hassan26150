@@ -58,15 +58,3 @@
 
 **Generative AI:** LLaMA 3.3 70B (Groq) · Hugging Face Inference API · Stable Diffusion XL · FLUX.1 · Prompt engineering
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassan26150&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hassan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan26150&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in Hassan's public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hassan26150&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
